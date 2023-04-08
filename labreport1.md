@@ -20,4 +20,9 @@ Confirm Duo Authentication
 9. ![Image](lab1image8.png)
 You will get an email. Click *UC San Diego Password reset page*
 10. ![Image](lab1image9.png)
-Enter new password information and click **Change Password**
+Enter new password information and click **Change Password**. You have now changed your course-specific account password!
+
+## Step 2: Downloading and opening VS Code
+Steps:
+1. Go to [Link](https://code.visualstudio.com/)
+> I am unable to provide steps for the rest of the process to download VS Code, as I already had it downloaded and functioning prior to the lab, and therefore did not complete any subsequent steps in the lab.
