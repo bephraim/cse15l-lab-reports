@@ -26,3 +26,7 @@ Enter new password information and click **Change Password**. You have now chang
 Steps:
 1. Go to [Link](https://code.visualstudio.com/)
 > I am unable to provide steps for the rest of the process to download VS Code, as I already had it downloaded and functioning prior to the lab, and therefore did not complete any subsequent steps in the lab.
+
+## Step 3: Remotely Connecting
+Steps:
+1. 
