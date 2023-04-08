@@ -13,4 +13,11 @@ Copy the words in **bold** and click *Use Global Password Change Tool*
 Click *Proceed to the Password Change Tool*
 6. ![Image](lab1image5.png)
 Click in the `text box` and paste your username and click **Continue**
-7. 
+7. ()
+Click *I want to reset my course-specific account password.*
+8.()
+Confirm Duo Authentication
+9. ()
+You will get an email. Click *UC San Diego Password reset page*
+10. ()
+Enter new password information and click **Change Password**
