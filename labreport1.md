@@ -35,7 +35,7 @@ Open a new terminal in VS Code
 3. ![Image](lab1image11.png)
 > I am unable to provide steps for the rest of this process, as I was one of the students who was never able to access my account. TA gave permission to include this screenshot and explanation
 
-## Steph 4: Trying Some Commands
+## Step 4: Trying Some Commands
 Steps:
 1. ![Image](lab1image11.png)
 > I am unable to provide steps for the rest of this process, as I was one of the students who was never able to access my account. TA gave permission to include this screenshot and explanation
