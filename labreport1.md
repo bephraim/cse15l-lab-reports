@@ -34,3 +34,8 @@ Open a new terminal in VS Code
 2. In the terminal, type *ssh cs15lsp23zz@ieng6.ucsd.edu* where zz is a unique pair of letters associated to your course specifc account and then type in your password that you just set for this account.
 3. ![Image](lab1image11.png)
 > I am unable to provide steps for the rest of this process, as I was one of the students who was never able to access my account. TA gave permission to include this screenshot and explanation
+
+## Steph 4: Trying Some Commands
+Steps:
+1. ![Image](lab1image11.png)
+> I am unable to provide steps for the rest of this process, as I was one of the students who was never able to access my account. TA gave permission to include this screenshot and explanation
