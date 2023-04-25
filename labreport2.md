@@ -75,7 +75,7 @@ static void reverseInPlace(int[] arr) {
   The issue with the original code was that the for loop continued for far too long. It kept going such that it replaced later items in the list with already replaced items from earlier in the list, meaning the list was incorrectly reversed. These edits allow it such that it stops at the half-way point of the list, so no items are erroneously changed. By adding a temp variable, all items are properly placed in the correct, reversed order. 
   
   
- ## Part 3: What I learned
+ ## Part 3: What I Learned
  
  I would say that I learned the most from Lab 2. URL's are such a common thing for those who actively use the internet, so it is very easy to overlook all the tiny attributes that go into websites. I learned about all the aspects of an URL link and how to properly read them and understand what they mean. I also learned a lot about servers. I've heard the term before and knew that it had to do something with a remotely running computer, but Lab 2 taught me a lot more about the specific about how servers are ran and where they are located and who can access it. I learned what a localhost was and how different ways are needed to access a server, depending on if it trying to be accessed from the local host or elsewhere. Furthermore, something I learned that I didn't know before was how to connect a server to a remote computer, and how convenient and power of connecting to and having access of remote computers. The coolest thing about this lab was definetely starting our own servers. It was very stimulating to see how relatively easy it is to create what can effectively be classified as a fully funcitoning webpage (with obvious limitations). 
 
