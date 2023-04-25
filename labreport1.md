@@ -1,6 +1,6 @@
 # Lab Report 1 - Brooks Ephraim
 
-## Step 1: Logging into course specific `eing6` account
+## Step 1: Logging into course specific `ieng6` account
 Steps:
 1. Go to [Link](https://sdacs.ucsd.edu/~icc/index.php)
 2. ![Image](image1.png)
@@ -33,7 +33,7 @@ Steps:
 Open a new terminal in VS Code
 2. In the terminal, type *ssh cs15lsp23zz@ieng6.ucsd.edu* where zz is a unique pair of letters associated to your course specifc account and then type in your password that you just set for this account.
 3. ![Image](lab1image11.png)
-> I am unable to provide steps for the rest of this process, as I was one of the students who was never able to access my account. TA gave permission to include this screenshot and explanation
+> If you see output in the terminal that looks similar to the above image, then you have successfully remotely connected into your course specific account!
 
 ## Step 4: Trying Some Commands
 Steps:
