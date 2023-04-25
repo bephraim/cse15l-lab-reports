@@ -41,3 +41,5 @@ Steps:
 > These are a list of common commands to try in the terminal.
 2. ![Image](lab1image14.png)
 > Attached is the input and output of some commands in the terminal. For example, **cd ~** changes the terminal to the home directory. Additionally, **ls - lat** lists the files and directories.
+3. ![Image](lab1image15.png)
+> In order to exit you can *CTRL-D* or run the command **exit**
