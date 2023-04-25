@@ -53,7 +53,7 @@ static void reverseInPlace(int[] arr) {
     assertArrayEquals(new int[]{5}, input2);
    ```
   *Symptom, as output of running tests:
-  [Image]_(lab2image4.png)
+  [Image](lab2image4.png)
   *Bug as Before-and-After code:
   ```
   #Before code
