@@ -10,7 +10,11 @@ The following image shows a use of `/add-message`. After input, the url reads:
 
 ![Image](lab2image2.png)
 
-The input above uses the method: `getPath(`) on the URI paramter *url*, which retries the path(which is the input) of URL into a string. It then uses the `.equals()` method of the String class, with the argument "/add-message" to determine if the given path is what we're looking for. `getQuery()` is also used to get the string that is added to the output on the page by finding the string that is after the equal sign (which is done by using `split("=")`. The string that is found from this process is added to "s", which is the varaible name for the string that represents the entirety of the output and updates with a new line everytime the "/add-message" command is run. Finally, `String.format()` properly formats the input in the uri to a string that is properly displayed on the page with the parameters "$s", which properly formats a string, and "s".
+The input above uses the method: `getPath()` on the URI paramter *url*, which retries the path(which is the input) of URL into a string. It then uses the `.equals()` method of the String class, with the argument `"/add-message"` to determine if the given path is what we're looking for. `getQuery()` is also used to get the string that is added to the output on the page by finding the string that is after the equal sign (which is done by using `split("=")`. The string that is found from this process is added to "s", which is the varaible name for the string that represents the entirety of the output and updates with a new line everytime the `"/add-message"` command is run. Finally, `String.format()` properly formats the input in the uri to a string that is properly displayed on the page with the parameters "$s", which properly formats a string, and "s".
+
+![Image](lab2image5.png)
+
+The image above shows the page after a follow-up use of `/add-message`. The page displays the newly added string on a new line, under the first message. Any subsequent added strings would behave the same way. 
 
 The follow image shows an invalid command in the URI line:
 ![Image](lab2image3.png)
