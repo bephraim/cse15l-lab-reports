@@ -14,7 +14,7 @@ The input above uses the method: `getPath()` on the URI paramter *url*, which re
 
 ![Image](lab2image5.png)
 
-The image above shows the page after a follow-up use of `/add-message`. The page displays the newly added string on a new line, under the first message. Any subsequent added strings would behave the same way. 
+The image above shows the page after a follow-up use of `/add-message`. The page displays the newly added string on a new line, under the first message. Any subsequent added strings would behave the same way. Due to the use of the new line `("\n")` in the code, each new call to `add-message` adds to the string variable `s` in a new line.
 
 The follow image shows an invalid command in the URI line:
 ![Image](lab2image3.png)
