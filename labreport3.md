@@ -107,6 +107,3 @@ In this example, I used the `-exec` option to print out in the terminal all the 
 This final example was a great way to show how all the options of a command in bash can work together to accomplish highly specific searches and tasks.
 
 > All commands, options, modifiers, and behaviors demonstrated in the above lab report, if not previously known from lecture materials, came from interacting with ChatGPT. I asked for options for the `-find` command, asked for it to elaborate and for examples, then tried myself on technical/.
-
-
-
