@@ -36,16 +36,6 @@ No password since I configured  it to automatically sign me in
 
 ## Streamlined 
 
-git clone: 8 ups
-
-cd lab7/ tab
-
-java: 8 javac: 9
-
-vim: ctrl f + ctrl d (7 times) 6l r2 wq!
-
-javac java 3,2
-
 **Time:** 1 minutes, 01 seconds
 
 ![Image](lab4image8.png)
