@@ -36,6 +36,15 @@ No password since I configured  it to automatically sign me in
 
 ## Streamlined 
 
+git clone: 8 ups
+
+cd lab7/ tab
+
+java: 8 javac: 9
+
+vim: ctrl f + ctrl d (7 times) 6l r2 wq!
+
+javac java 3,2
 
 **Time:** 1 minutes, 01 seconds
 
@@ -47,9 +56,31 @@ No password since I configured  it to automatically sign me in
 
 *Keys Pressed:* I pressed `<Up>` 8 times to get to the git clone command
 
-```
-All steps were the same as above
-```
+![Image](lab4image12.png)
+
+*Keys Pressed:*  `<Up>` 8 times to get the `javac` command and 9 times to get the `java` command. This shows I deleted the repo and the tests no longer work.
+
+![Image](lab4image13.png) 
+
+*Keys Pressed:* I simply typed `Vim ListExamples.java`. The vim page took over my terminal.
+
+![Image](lab4image14.png)
+
+*Keys Pressed:* To get the the corret spot, I pressed `Ctrl + f`, `Ctrl + d` 7 times, and `6+l` to get to the exact location. Then I pressed `r+2` to replace the character
+
+![Image](lab4image15.png)
+
+*Keys Pressed:* I typed `:``w``q``!``<Enter>` to save and quit.
+
+![Image](lab4image16.png)
+
+*Keys Pressed:* I pressed `<Up>` 2 times for the `javac` and 3 times for the `java command`. The working tests shows the validity of my steps.
+
+![Image](lab4image17.png)
+
+*Keys Pressed:* I had to type `git add .`, `git commit -m "added"`, and `git push origin main` to commit and push my changes to the repository.
+
+
 
 
 
