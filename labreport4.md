@@ -32,7 +32,7 @@ No password since I configured  it to automatically sign me in
 
 ![Image](lab4image7.png)
 
-*Keys Pressed:* I clicked `<Up>` 3 times for the `javac` command and twice for the `java` command
+**Time:** 3 minutes, 43 seconds I clicked `<Up>` 3 times for the `javac` command and twice for the `java` command
 
 ## Streamlined 
 
@@ -47,6 +47,22 @@ vim: ctrl f + ctrl d (7 times) 6l r2 wq!
 javac java 3,2
 
 **Time:** 1 minutes, 01 seconds
+
+![Image](lab4image8.png)
+
+*Keys Pressed:* I had to type in the `ssh` command (No password
+
+![Image](lab4image9.png)
+
+*Keys Pressed:* I pressed `<Up>` 8 times to get to the git clone command
+
+```
+All steps were the same as above
+```
+
+
+
+
 
 
 
