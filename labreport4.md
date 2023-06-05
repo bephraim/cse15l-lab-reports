@@ -34,6 +34,10 @@ No password since I configured  it to automatically sign me in
 
 **Time:** 3 minutes, 43 seconds I clicked `<Up>` 3 times for the `javac` command and twice for the `java` command
 
+![Image](lab4image17.png)
+
+*Keys Pressed:* I had to type `git add .`, `git commit -m "added"`, and `git push origin main` to commit and push my changes to the repository.
+
 ## Streamlined 
 
 **Time:** 1 minutes, 01 seconds
