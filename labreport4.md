@@ -10,9 +10,9 @@
 All I had to do was type in `ssh cs15lsp23lx@ieng6.ucsd.edu`. 
 No password since I configured  it to automatically sign me in
 
-![Image](lab4image2.png)
+![Image](lab4imageX.png)
 
-*Keys Pressed:* I typed `git clone` and then copied the git repository link from my repositories on GitHub.
+*Keys Pressed:* I typed `git clone` and then copied the ssh link from my repositories on GitHub.
 
 ![Image](lab4image3.png)
 
