@@ -34,12 +34,15 @@ Hi! Thanks for your request. It seems like there is an issue with your command l
 4. **Final Information**
 **i).** The active directory for the file being worked on is: stringsearch-main/StringServer.java. This is what it looks like:
 ![Image](lab5image8)
+
 **ii).** The contents of the two relevant files prior to fixing are shown below:
 ![Image](lab5image9)
 ![Image](lab5image10)
 ![Image](lab5image11)
 ![Image](lab5image12)
+
 **iii).** The command line that run the bug is shown below:
 ![Image](lab5imageA)
+
 **iv).** The edit to fix the bug was done on line 63 of the StringServer.java file. The `args[1]` was changed to `args[0]`. This allows the new port input to be an integer (4000) rather than trying to inappropriately pass a text file through. After this change was made, the behavior was as expected.
 
