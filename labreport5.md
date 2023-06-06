@@ -27,6 +27,7 @@ Hi! Thanks for your request. It seems like there is an issue with your command l
 
 ![Image](lab5image5.png)
 > This is exactly where the bug is.
+
 ![Image](lab5image6.png)
 >And this is what it looks like when it is fixed. Notice how the parameter on line 63 was changed to `args[0]` rather than it being `args[1]`.
 
@@ -34,6 +35,7 @@ Hi! Thanks for your request. It seems like there is an issue with your command l
 > Finally, this is what the correct output for the given input is.
 
 4. **Final Information**
+
 **i).** The active directory for the file being worked on is: stringsearch-main/StringServer.java. This is what it looks like:
 ![Image](lab5image8.png)
 
