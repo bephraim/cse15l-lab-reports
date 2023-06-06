@@ -16,8 +16,10 @@ Hi! Thanks for your request. It seems like there is an issue with your command l
 
 ![Image](lab5image3.png)
 > This is testing behavior with 0 command line arguments. Output is as expected
+
 ![Image](lab5image4.png)
 > This is testing behavior with 1 command line argument. Output is as expected
+
 ![Image](lab5imageA.png)
 > This is testing behavior with 2 command line arguments. Output is unexpected, this is where the bug is.
 
