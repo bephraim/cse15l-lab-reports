@@ -12,5 +12,12 @@ Response:
 Hi! Thanks for your request. It seems like there is an issue with your command line arguments. Why don't you test each of the possibilites for your arguments to make sure you have everything covered and in the right position.
 ```
 
-3. **
+3. **Using TA feedback to determine the bug**
+
+![Image](lab5image3)
+> This is testing behavior with 1 command line argument. Output is as expected
+![Image](lab5image4)
+> This is testing behavior with 2 command line arguments. Output is as expected
+![Image](lab5image5)
+> This is testing behavior with 3 command line arguments. Output is unexpected, this is where the bug is.
 
